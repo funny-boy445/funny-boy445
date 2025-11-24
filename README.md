@@ -21,7 +21,3 @@ Hi, I'm **Meddie**, a passionate software developer with a focus on various prog
 ## Social Links
 
 - **Portfolio:** https://guns.lol/h4tim
-
-## Contribution Stats
-
-![Meddie's Contribution Chart](https://github-readme-stats.vercel.app/api/gpa?username=funny-boy445&theme=radical)
