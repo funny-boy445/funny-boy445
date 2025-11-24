@@ -22,4 +22,4 @@ Hi, I'm **Meddie**, a passionate software developer with a focus on various prog
 
 - **Portfolio:** https://guns.lol/h4tim
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=funny-boy445&theme=react-dark&area=true)
