@@ -17,9 +17,9 @@ Hi, I'm **Meddie**, a passionate software developer with a focus on various prog
 - **LinkedIn** https://www.linkedin.com/in/hatim-ayyad-738454399/
 
 # Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=funny-boy445&theme=react-dark&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatim-ayyad&theme=react-dark&area=true)
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funny-boy445&theme=github_dark)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatim-ayyad&theme=github_dark)
 
 # Contribution Chart
 <picture>
