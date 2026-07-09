@@ -1,41 +1,63 @@
-<!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=180&section=header&text=Welcome&fontSize=60&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=Hatim%20Ayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<!-- ✨ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0080ff&center=true&vCenter=true&width=600&lines=Hi+I'm+Hatim+👋;FullStack-Developer;HTML+•+CSS+•+JavaScript+•+PHP;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Product+Designer;Building+Scalable+Web+Applications;React+•+Next.js+•+Node.js" />
 </p>
 
-<h3 align="center">IDC About You :)</h3>
-
-<!-- 🌸 Only Instagram & Discord -->
 <p align="center">
-  <a href="https://www.instagram.com/isthataoneboyintheclass/">
-    <img src="https://img.shields.io/badge/Instagram-FC2779?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/meddiex">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+Full-Stack Software Engineer and Product Designer focused on building modern, scalable, and user-centered digital products.
 </p>
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatim-ayyad&show_icons=true&theme=radical&hide_border=true&title_color=0080ff&icon_color=0080ff" />
-</p>
+## About
 
+I design and develop modern web applications with a focus on usability, performance, and maintainable architecture. I enjoy working across the full product lifecycle, from product design and frontend development to backend systems and deployment.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim-ayyad&layout=compact&theme=radical&title_color=0080ff&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,python,mysql,mongodb,docker,git,github,linux,figma,vscode" />
 </p>
 
 ---
 
-<h2 align="center"> Tech Stack </h2>
+## Expertise
+
+- Full-Stack Development
+- Product Design
+- UI/UX Design
+- Frontend Engineering
+- Backend Development
+- REST API Development
+- Database Design
+- Authentication & Authorization
+- Responsive Web Design
+- Software Architecture
+- Performance Optimization
+- Git Workflow
+
+---
+
+## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,nodejs,mysql,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,postman,npm,bash" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatim-ayyad&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatim-ayyad&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hatim-ayyad&theme=github_dark" />
 </p>
 
 ---
@@ -43,5 +65,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="GitHub contribution graph" src="github-snake.svg" />
 </picture>
